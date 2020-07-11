@@ -9,6 +9,6 @@ tags:
 ---
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-![A sample inlined image](https://source.unsplash.com/random/600x400)
+![A sample inlined image](https://pitchandpublish.com/_assets/images/ServicesPage_col2.jpg)
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Audience reports are located under Audience in the left-hand navigation of your Google Analytics portal. These reports can help you better understand the characteristics of your users. This can include what countries they’re in, what languages they speak, and the technology they use to access your site. But it can also include data like
